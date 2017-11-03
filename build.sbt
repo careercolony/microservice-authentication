@@ -4,7 +4,7 @@ version := "1.0"
 
 scalaVersion := "2.11.8"
 
-organization := "com.knoldus"
+organization := "com.careercolony"
 
 val akkaV = "2.4.5"
 libraryDependencies ++= Seq(
