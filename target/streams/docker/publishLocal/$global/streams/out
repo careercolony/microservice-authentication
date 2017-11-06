@@ -1,0 +1,34 @@
+[0m[[0mdebug[0m] [0mExecuting Native docker build --force-rm -t akka-http-docker-careercolony-auth:1.0 .[0m
+[0m[[0mdebug[0m] [0mWorking directory /Users/carl/careercolony-akka-projects/branches/microservice-authentication/target/docker/stage[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon  26.89MB[0m
+[0m[[0minfo[0m] [0mStep 1/8 : FROM java:latest[0m
+[0m[[0minfo[0m] [0m ---> d23bdf5b1b1b[0m
+[0m[[0minfo[0m] [0mStep 2/8 : WORKDIR /opt/docker[0m
+[0m[[0minfo[0m] [0m ---> Using cache[0m
+[0m[[0minfo[0m] [0m ---> 1c3a924172dc[0m
+[0m[[0minfo[0m] [0mStep 3/8 : ADD opt /opt[0m
+[0m[[0minfo[0m] [0m ---> 37a3632e8a42[0m
+[0m[[0minfo[0m] [0mRemoving intermediate container e470b1e5ea1b[0m
+[0m[[0minfo[0m] [0mStep 4/8 : RUN chown -R daemon:daemon .[0m
+[0m[[0minfo[0m] [0m ---> Running in beaa3f1c2519[0m
+[0m[[0minfo[0m] [0m ---> 1aef14463723[0m
+[0m[[0minfo[0m] [0mRemoving intermediate container beaa3f1c2519[0m
+[0m[[0minfo[0m] [0mStep 5/8 : EXPOSE 8080[0m
+[0m[[0minfo[0m] [0m ---> Running in 02fcf92f287c[0m
+[0m[[0minfo[0m] [0m ---> b23f683c8717[0m
+[0m[[0minfo[0m] [0mRemoving intermediate container 02fcf92f287c[0m
+[0m[[0minfo[0m] [0mStep 6/8 : USER daemon[0m
+[0m[[0minfo[0m] [0m ---> Running in 9a9a5c2a8d97[0m
+[0m[[0minfo[0m] [0m ---> 31487e8b2940[0m
+[0m[[0minfo[0m] [0mRemoving intermediate container 9a9a5c2a8d97[0m
+[0m[[0minfo[0m] [0mStep 7/8 : ENTRYPOINT bin/neo4j-akka-http-user-authentication[0m
+[0m[[0minfo[0m] [0m ---> Running in 3644344edc9d[0m
+[0m[[0minfo[0m] [0m ---> 88870179ffb1[0m
+[0m[[0minfo[0m] [0mRemoving intermediate container 3644344edc9d[0m
+[0m[[0minfo[0m] [0mStep 8/8 : CMD[0m
+[0m[[0minfo[0m] [0m ---> Running in d6a0ffebb6d0[0m
+[0m[[0minfo[0m] [0m ---> dab70bad7e98[0m
+[0m[[0minfo[0m] [0mRemoving intermediate container d6a0ffebb6d0[0m
+[0m[[0minfo[0m] [0mSuccessfully built dab70bad7e98[0m
+[0m[[0minfo[0m] [0mSuccessfully tagged akka-http-docker-careercolony-auth:1.0[0m
+[0m[[0minfo[0m] [0mBuilt image akka-http-docker-careercolony-auth:1.0[0m

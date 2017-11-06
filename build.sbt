@@ -1,8 +1,12 @@
-name := """neo4j-akka-http-starter-kit"""
+lazy val root = (project in file(".")).enablePlugins(JavaAppPackaging)
+name := """neo4j-akka-http-user-authentication"""
 
 version := "1.0"
 
 scalaVersion := "2.11.8"
+
+packageName in Docker := "akka-http-docker-careercolony-auth"
+dockerExposedPorts := Seq(8080)
 
 organization := "com.careercolony"
 

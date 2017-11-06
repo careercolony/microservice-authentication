@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0mPackaging /Users/carl/careercolony-akka-projects/branches/microservice-authentication/target/scala-2.11/neo4j-akka-http-user-authentication_2.11-1.0-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	com/careercolony/neo4jServices/factories/DatabaseAccess.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/carl/careercolony-akka-projects/branches/microservice-authentication/src/main/scala/com/careercolony/neo4jServices/factories/DatabaseAccess.scala[0m
+[0m[[0mdebug[0m] [0m	com/careercolony/neo4jServices/routes/AuthServices.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/carl/careercolony-akka-projects/branches/microservice-authentication/src/main/scala/com/careercolony/neo4jServices/routes/AuthServices.scala[0m
+[0m[[0mdebug[0m] [0m	com/careercolony/neo4jServices/boot.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/carl/careercolony-akka-projects/branches/microservice-authentication/src/main/scala/com/careercolony/neo4jServices/boot.scala[0m
+[0m[[0mdebug[0m] [0m	Stub.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/carl/careercolony-akka-projects/branches/microservice-authentication/src/main/scala/Stub.scala[0m
+[0m[[0mdebug[0m] [0m	application.conf[0m
+[0m[[0mdebug[0m] [0m	  /Users/carl/careercolony-akka-projects/branches/microservice-authentication/src/main/resources/application.conf[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
