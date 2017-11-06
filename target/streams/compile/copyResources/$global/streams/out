@@ -1,2 +1,2 @@
 [0m[[0mdebug[0m] [0mCopy resource mappings: [0m
-[0m[[0mdebug[0m] [0m	(/Users/carl/careercolony-akka-projects/authentication/src/main/resources/application.conf,/Users/carl/careercolony-akka-projects/authentication/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/carl/careercolony-akka-projects/branches/microservice-authentication/src/main/resources/application.conf,/Users/carl/careercolony-akka-projects/branches/microservice-authentication/target/scala-2.11/classes/application.conf)[0m
