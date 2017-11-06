@@ -1,4 +1,5 @@
 [0m[[0minfo[0m] [0mRunning com.careercolony.neo4jServices.StartApplication [0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
 [0m[[0mdebug[0m] [0m  Classpath:[0m
 [0m[[0mdebug[0m] [0m	/Users/carl/careercolony-akka-projects/branches/microservice-authentication/target/scala-2.11/classes[0m
 [0m[[0mdebug[0m] [0m	/Users/carl/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar[0m
@@ -17,11 +18,18 @@
 [0m[[0mdebug[0m] [0m	/Users/carl/.ivy2/cache/com.typesafe.akka/akka-stream_2.11/jars/akka-stream_2.11-2.4.11.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/carl/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.11.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/carl/.ivy2/cache/com.typesafe.akka/akka-parsing_2.11/jars/akka-parsing_2.11-2.4.11.jar[0m
-[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m	/Users/carl/.ivy2/cache/com.jason-goodwin/authentikat-jwt_2.11/jars/authentikat-jwt_2.11-0.4.5.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/carl/.ivy2/cache/commons-codec/commons-codec/jars/commons-codec-1.9.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/carl/.ivy2/cache/org.json4s/json4s-native_2.11/jars/json4s-native_2.11-3.5.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/carl/.ivy2/cache/org.json4s/json4s-core_2.11/jars/json4s-core_2.11-3.5.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/carl/.ivy2/cache/org.json4s/json4s-ast_2.11/jars/json4s-ast_2.11-3.5.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/carl/.ivy2/cache/org.json4s/json4s-scalap_2.11/jars/json4s-scalap_2.11-3.5.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/carl/.ivy2/cache/com.thoughtworks.paranamer/paranamer/bundles/paranamer-2.8.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/carl/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.6.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/carl/.ivy2/cache/org.json4s/json4s-jackson_2.11/jars/json4s-jackson_2.11-3.5.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/carl/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/bundles/jackson-databind-2.8.4.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/carl/.ivy2/cache/com.fasterxml.jackson.core/jackson-annotations/bundles/jackson-annotations-2.8.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/carl/.ivy2/cache/com.fasterxml.jackson.core/jackson-core/bundles/jackson-core-2.8.4.jar[0m
 [0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
 [0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
-[0m[[0mdebug[0m] [0mWaiting for thread Neo4j-Akka-Service-akka.actor.default-dispatcher-3 to terminate.[0m
-[0m[[0mdebug[0m] [0m	Thread Neo4j-Akka-Service-akka.actor.default-dispatcher-3 exited.[0m
-[0m[[0mdebug[0m] [0mWaiting for thread Neo4j-Akka-Service-akka.actor.default-dispatcher-4 to terminate.[0m
-[0m[[0mdebug[0m] [0m	Thread Neo4j-Akka-Service-akka.actor.default-dispatcher-4 exited.[0m
-[0m[[0mdebug[0m] [0mWaiting for thread Neo4j-Akka-Service-akka.io.pinned-dispatcher-6 to terminate.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread Neo4j-Akka-Service-akka.io.pinned-dispatcher-5 to terminate.[0m

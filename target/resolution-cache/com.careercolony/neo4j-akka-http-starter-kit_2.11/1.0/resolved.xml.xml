@@ -4,7 +4,7 @@
 		module="neo4j-akka-http-starter-kit_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20171106092228"
+		publication="20171106095533"
 	>
 		<description>
 		neo4j-akka-http-starter-kit
@@ -42,5 +42,6 @@
 		<dependency org="com.typesafe.akka" name="akka-http-spray-json-experimental_2.11" rev="2.4.5" conf="compile->default(compile)"/>
 		<dependency org="org.scalatest" name="scalatest_2.11" rev="2.2.6" conf="test->default(compile)"/>
 		<dependency org="ch.megard" name="akka-http-cors_2.11" rev="0.1.8" conf="compile->default(compile)"/>
+		<dependency org="com.jason-goodwin" name="authentikat-jwt_2.11" rev="0.4.5" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>
